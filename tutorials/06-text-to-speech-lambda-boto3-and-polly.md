@@ -18,7 +18,7 @@ To create a new lambda, the role and the s3 bucket:
 To deploy a lambda and invoke it:
 
 ```bash
-. scripts/deploy.sh example-6-polly-fct '{"bucket-name": "markus-dsr-polly-foobar"}'
+. scripts/deploy.sh example-6-polly-fct '{"bucket-name": "apakiman-ds35"}'
 ```
 
 ![Screenshot](architecture/invoke-lambda-polly.png)

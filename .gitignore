@@ -1,3 +1,8 @@
+.history
+.env
+envs
+
+
 example-4-hello-world-cli/my_lambda.zip
 example-4-hello-world-cli/out
 example-6-polly/my_lambda_polly.zip
